@@ -1,0 +1,10 @@
+.label-center {
+    text-align: center;
+    display: inline-block;
+    width: 100px;
+}
+
+.input-center {
+    position: absolute;
+    display: inline-block;
+}
